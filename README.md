@@ -43,3 +43,13 @@ A centralised resource for working with Docker and its components. Most commonly
 ### Dockerfile
 
 A dockerfile is a text file that contains commands you would normally execute manually to build a docker image. Docker can build images automatically by reading the instructions we have in our dockerfile.
+
+## Installing Docker Desktop
+
+The [docker documenation](https://docs.docker.com/engine/install/) is amazing and if you are only just diving in then you should take a look and have a read-through. We will be using Docker Desktop on Windows with WSL2. I had already run through the installation on the machine we are using here.
+
+![](Images/Day43_Containers1.png)
+
+Take note before you go ahead and install at the system requirements, [Install Docker Desktop on Windows](https://docs.docker.com/desktop/windows/install/) if you are using macOS including the M1-based CPU architecture you can also take a look at [Install Docker Desktop on macOS](https://docs.docker.com/desktop/mac/install/)
+
+I will run through the Docker Desktop installation for Windows on another Windows Machine and log the process down below.
